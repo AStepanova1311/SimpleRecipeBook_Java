@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">RecipeApp</string>
+    <string name="recipe">Recipe</string>
+    <string name="enter_your_recipe">Enter your recipe</string>
+    <string name="pin_unpin">Pin/Unpin</string>
+    <string name="delete">Delete</string>
+</resources>
